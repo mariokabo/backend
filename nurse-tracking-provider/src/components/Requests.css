@@ -1,0 +1,52 @@
+.requests-main {
+  max-width: 700px;
+  margin: 40px auto 0 auto;
+  padding: 22px 0 0 0;
+}
+.requests-main h2 {
+  text-align: center;
+  color: #215175;
+  margin-bottom: 20px;
+}
+.request-card {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 20px 15px 12px 15px;
+  margin-bottom: 18px;
+  font-size: 1.05em;
+  color: #234;
+  direction: rtl;
+}
+.req-actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 12px;
+}
+.accept-btn {
+  background: linear-gradient(90deg, #38b2ac, #3182ce);
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 7px 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.reject-btn {
+  background: #f87171;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 7px 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.status-جديد { color: #3182ce; font-weight: bold;}
+.status-مقبول { color: #169c50; font-weight: bold;}
+.status-مرفوض { color: #f87171; font-weight: bold;}
+.empty {
+  text-align: center;
+  color: #aaa;
+  margin-top: 30px;
+  font-size: 1.13em;
+}

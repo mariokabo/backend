@@ -1,0 +1,23 @@
+.dashboard-main {
+  max-width: 650px;
+  margin: 40px auto 0 auto;
+  padding: 24px 0 0 0;
+}
+.dashboard-main h2 {
+  text-align: center;
+  color: #215175;
+  margin-bottom: 24px;
+}
+.dashboard-card {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 12px #0001;
+  padding: 35px 28px;
+  font-size: 1.15em;
+  color: #234;
+}
+.dashboard-card ul {
+  margin-top: 18px;
+  padding-right: 18px;
+  color: #3182ce;
+}

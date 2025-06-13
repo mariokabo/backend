@@ -1,0 +1,17 @@
+.app-root {
+  min-height: 100vh;
+  background: #f3f8fd;
+  font-family: 'Tajawal', 'Cairo', Arial, sans-serif;
+}
+
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding-bottom: 80px;
+  min-height: 80vh;
+}
